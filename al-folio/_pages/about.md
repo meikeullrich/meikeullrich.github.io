@@ -6,7 +6,7 @@ subtitle: Research. Education. Interdisciplinarity. Computer Science.
 
 profile:
   align: right
-  image: meike.jpg
+  image: meike.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Karlsruhe Institute of Technology</p>
